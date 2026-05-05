@@ -47,7 +47,7 @@ Atualmente, estou aprimorando minhas habilidades em **Python, TypeScript e desen
 
 ## 📌 Projetos em Destaque
 
-🚗 Desenvolvimento de aplicação para mobilidade (TechMob)  
+🚗 Desenvolvimento de aplicação para mobilidade (TechMob 4.0)  
 📊 Projeto de Análise de Dados com Python  
 📱 Projetos integradores da UNIVESP  
 
@@ -55,9 +55,9 @@ Atualmente, estou aprimorando minhas habilidades em **Python, TypeScript e desen
 
 ## 📫 Como me encontrar
 
-📧 Email: seuemail@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/  
-💻 GitHub: https://github.com/
+📧 Email: alineass85@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/aline-ap-silva-souza-6a8bb295 
+💻 GitHub: https://github.com/Alineap85
 
 ---
 
